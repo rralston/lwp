@@ -4,7 +4,7 @@ We are a local London based supplier of Wood Pellets specifically for Cat Litter
 
 We specialise in pick-up and collection of 15kg / 30L Bags of high quality white wood pellets for Cat Litter. 
 
-![Image](images/1.png)
+![Image](Pure Wood Pellets Cat Litter.png)
 
 ### Markdown
 

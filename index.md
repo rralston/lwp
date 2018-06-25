@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to London Wood Pellets 
 
-You can use the [editor on GitHub](https://github.com/rralston/lwp/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are a local London based supplier of Wood Pellets specifically for Cat Litter based in South West London. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We specialise in pick-up and collection of 15kg / 30L Bags of high quality white wood pellets for Cat Litter. 
+
+![Image](images/1.png)
 
 ### Markdown
 
